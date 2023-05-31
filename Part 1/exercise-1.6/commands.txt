@@ -1,0 +1,10 @@
+commands:
+docker run -it devopsdockeruh/pull_exercise
+
+docker ps
+docker exec -it gallant_babbage sh
+>> ls
+>> cat README.md
+
+secret message:
+"This is the secret message"
