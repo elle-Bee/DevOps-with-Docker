@@ -1,0 +1,8 @@
+to start the process:
+docker run -it ubuntu sh -c 'while true; do echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website; done'
+
+to fix ensuing problems:
+docker ps
+docker exec -it ecstatic_satoshi bash
+>> apt update && sudo apt upgrade
+>> apt install curl
