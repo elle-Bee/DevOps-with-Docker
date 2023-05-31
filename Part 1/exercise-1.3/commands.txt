@@ -1,0 +1,4 @@
+docker run devopsdockeruh/simple-web-service:ubuntu
+docker ps
+docker exec -it nostalgic_shockley bash
+tail -f ./text.log
