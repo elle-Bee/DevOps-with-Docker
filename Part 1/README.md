@@ -96,3 +96,10 @@ Commands
 touch text.log
 docker run -d -v $(pwd)/text.log:/usr/src/app/text.log devopsdockeruh/simple-web-service
 ```
+## EXERCISE 1.10: PORTS OPEN
+Commands
+```shell
+docker build -t web-server .
+docker run -p 8080:8080 web-server
+```
+
