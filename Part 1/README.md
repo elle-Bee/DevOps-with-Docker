@@ -88,7 +88,7 @@ You found the correct password. Secret message is:
 Done in Folder exercise-1.7
 
 ## EXERCISE 1.8: TWO LINE DOCKERFILE
-Done in folder exercise-1.8
+Done in Folder exercise-1.8
 
 ## EXERCISE 1.9: VOLUMES
 Commands
@@ -103,3 +103,5 @@ docker build -t web-server .
 docker run -p 8080:8080 web-server
 ```
 
+## ## EXERCISE 1.11: SPRING
+Done in Folder exercise-1.11
