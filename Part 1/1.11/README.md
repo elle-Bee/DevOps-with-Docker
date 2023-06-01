@@ -7,6 +7,6 @@ nano Dockerfile
 ```
 Commands
 ```shell
-docker build -t server-ex11 .
-docker run -p 8080:8080 server-ex11
+docker build -t myapp1.11 .
+docker run -p 8080:8080 myapp1.11
 ```

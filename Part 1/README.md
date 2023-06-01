@@ -103,5 +103,8 @@ docker build -t web-server .
 docker run -p 8080:8080 web-server
 ```
 
-## ## EXERCISE 1.11: SPRING
+## EXERCISE 1.11: SPRING
 Done in Folder exercise-1.11
+
+## MANDATORY EXERCISE 1.12: HELLO, FRONTEND!
+Done in Folder exercise-1.12
