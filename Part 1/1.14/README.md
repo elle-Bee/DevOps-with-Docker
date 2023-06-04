@@ -1,0 +1,9 @@
+### MANDATORY EXERCISE 1.14: ENVIRONMENT
+Commands
+```shell
+docker build -t backend .
+docker run -p 8080:8080 backend
+
+docker build -t frontend .
+docker run -p 5000:5000 frontend
+```
