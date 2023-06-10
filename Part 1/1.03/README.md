@@ -1,4 +1,3 @@
-
 ## EXERCISE 1.3: SECRET MESSAGE
 Commands
 ```shell

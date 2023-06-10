@@ -1,4 +1,4 @@
-### MANDATORY EXERCISE 1.14: ENVIRONMENT
+## MANDATORY EXERCISE 1.14: ENVIRONMENT
 Commands
 ```shell
 docker build -t backend .
