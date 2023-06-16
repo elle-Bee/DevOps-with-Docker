@@ -7,6 +7,7 @@ frontend                            latest        e0b35f932b7e   6 minutes ago  
 ```
 Image sizes after modification:
 ```shell
+REPOSITORY                          TAG             IMAGE ID       CREATED             SIZE
 backend                             latest        08534d19e492   13 seconds ago      496MB
 frontend                            latest        00e99ec75a14   3 minutes ago       470MB
 ```
