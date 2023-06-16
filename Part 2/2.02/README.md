@@ -1,1 +1,1 @@
-## EXERCISE 2.2
+# EXERCISE 2.2

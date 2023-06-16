@@ -1,5 +1,5 @@
-## EXERCISE 1.7: IMAGE FOR SCRIPT
-script.sh
+# EXERCISE 1.7: IMAGE FOR SCRIPT
+## script.sh
 ```shell
 echo "Hello, docker!"
 while true
@@ -9,7 +9,7 @@ do
   sleep 1; curl http://$website
 done
  ```
-Commands
+## Commands
 ```shell
 docker build -t curler .
 docker run -it curler

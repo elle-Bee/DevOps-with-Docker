@@ -1,5 +1,5 @@
-## MANDATORY EXERCISE 1.14: ENVIRONMENT
-Commands
+# MANDATORY EXERCISE 1.14: ENVIRONMENT
+## Commands
 ```shell
 docker build -t backend .
 docker run -p 8080:8080 backend
